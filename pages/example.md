@@ -1,50 +1,20 @@
 ---
-title: Example Page
-nav: Example
+title: lorenm epsum
+nav: lorem
 nav_order: 1
 ---
+## lorem:
+Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie depuis les années 1500, quand un imprimeur anonyme assembla ensemble des morceaux de texte pour réaliser un livre spécimen de polices de texte. Il n'a pas fait que survivre cinq siècles, mais s'est aussi adapté à la bureautique informatique, sans que son contenu n'en soit modifié. Il a été popularisé dans les années 1960 grâce à la vente de feuilles Letraset contenant des passages du Lorem Ipsum, et, plus récemment, par son inclusion dans des applications de mise en page de texte, comme Aldus PageMaker.
 
-Write pages in Markdown.
+---
 
-## Heading Two 
+## list:
+ - contenant 
+ - du sensest 
+ - source de 
+ - distractions
 
-Any text with no empty lines between will become a paragraph.
-Leave an blank line between headings and paragraphs.
-Font can be *Italic* or **Bold**.
-Code can be highlighted with `backticks`.
+---
 
-Hyperlinks look like this [GitHub Help](https://help.github.com/).
-
-### Lists 
-
-A bullet list is created using `*`, `+`, or `-`, like:
-
-- dog
-- cat
-- muffin
-
-A numbered list is created using a number + `.`, like:
-
-1. one
-2. two
-6. three
-2. four
-
-Horizontal rule:
-
---------------
-
-{% include figure.html img="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/VAN_CAT.png/480px-VAN_CAT.png" alt="white cat" caption="I found this [Cat image on Wikimedia](https://commons.wikimedia.org/wiki/File:VAN_CAT.png)." %}
-
-> A block quote.
-> Is like this.
-{:.blockquote}
-
-### A Table
-
-| header | column a | column b |
-| --- | --- | --- |
-| dogs | 3 | 6 |
-| cats | 3 | 6 |
-| muffins | 15 | 30 |
-{:.table .table-striped}
+## D'où vient-il?
+Contrairement à une opinion répandue, le Lorem Ipsum n'est pas simplement du texte aléatoire. Il trouve ses racines dans une oeuvre de la littérature latine classique datant de 45 av. J.-C., le rendant vieux de 2000 ans. Un professeur du Hampden-Sydney College, en Virginie, s'est intéressé à un des mots latins les plus obscurs, consectetur, extrait d'un passage du Lorem Ipsum, et en étudiant tous les usages de ce mot dans la littérature classique, découvrit la source incontestable du Lorem Ipsum. Il provient en fait des sections 1.10.32 et 1.10.33 du "De Finibus Bonorum et Malorum" (Des Suprêmes Biens et des Suprêmes Maux) de Cicéron. Cet ouvrage, très populaire pendant la Renaissance, est un traité sur la théorie de l'éthique. Les premières lignes du Lorem Ipsum, "Lorem ipsum dolor sit amet...", proviennent de la section 1.10.3
